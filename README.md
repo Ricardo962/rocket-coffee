@@ -9,8 +9,11 @@
 <p>Neste desafio você deverá desenvolver uma homepage para uma marca de café.</p>
 
 <h3>Layoult</h3>
-![desafio-rocket-coffee](https://github.com/Ricardo962/rocket-coffee/assets/114768556/21f752d8-fb0e-4776-80a0-cebf60d9183f)
 
+<div align="center">
+  <img src="https://github.com/Ricardo962/rocket-coffee/assets/114768556/21f752d8-fb0e-4776-80a0-cebf60d9183f">
+</div
+  
 <br>
 
 # 🚀 Techs
